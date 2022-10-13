@@ -7,7 +7,7 @@
     <ProjectGuid>{C87CBDBD-4FEE-41AE-B4F4-93C3DC25A706}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>KeLi.HelloPiab</RootNamespace>
-    <AssemblyName>KeLi.HelloPiab</AssemblyName>
+    <AssemblyName>HelloPiab</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
